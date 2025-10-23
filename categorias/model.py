@@ -1,6 +1,7 @@
 
 from sqlalchemy.orm import Mapped, mapped_column,relationship
 from sqlalchemy import Integer, String
+
 from contrib.models import BaseModel
 
 
